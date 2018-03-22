@@ -1,6 +1,9 @@
 main = do
-  putStrLn ['α'..'ω']
-  putStrLn ['א'..'ת']
-  putStrLn ['ᚠ'..'ᛰ']
-  putStrLn ['ぁ'..'ん']
-  putStrLn ['ァ'..'ヶ']
+  putStrLn ['α'..'ω'] -- ギリシャ
+  putStrLn ['א'..'ת'] -- ヘブライ
+  putStrLn ['ᚠ'..'ᛰ'] -- ルーン
+  putStrLn ['ぁ'..'ん'] -- ひらがな
+  putStrLn ['ァ'..'ヶ'] -- カタカナ
+  putStrLn ['߀'..'ߺ'] -- ンコ
+  putStrLn ['ក'..'៹'] -- クメール
+  putStrLn ['ༀ'..'࿚'] -- チベット
